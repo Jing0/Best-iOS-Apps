@@ -13,7 +13,6 @@
 * [Webster Dic]<sup>free</sup>
 * [有道词典]<sup>free</sup>
 * [Quizzitive]<sup>free</sup>
-* [E.Monstruo]<sup>free</sup>
 * [Phrasalstein]<sup>free</sup>
 * [Classbox]<sup>free</sup>
 * [WikiLinks]
@@ -33,6 +32,7 @@
 * [WPS Office]<sup>free</sup>
 * [WriteRoom] <sup>free</sup>
 * [WordEver]
+* [Wordbox]
 
 
 ## 1.5 Brainstorm
@@ -45,18 +45,23 @@
 
 * [HearText]<sup>free</sup>
 * [ThunderSpace2]<sup>free</sup>
-* [Coffitivity]<sup>free</sup>
 * [WordPress]<sup>free</sup>
 * [Napcat]<sup>free</sup>
 * [iOctocat]<sup>free</sup>
-* [Codehub]<sup>free</sup>
 * [RepoStumble]<sup>free</sup>
 
-## 1.7 Image Editor
+## 1.7 Design
 
 * [Blur +]
-* [Aviary] <sup>free</sup>
+* [Aviary]<sup>free</sup>
 * [Perfectly Clear]
+* [Phoenix Photo Editor]
+* [Font List]<sup>free</sup>
+* [Color Codes]<sup>free</sup>
+
+## 1.8 Music
+
+* [Jing]<sup>free</sup>
 
 
 [Chrome]:https://itunes.apple.com/cn/app/tower-of-fortune-2/id691850020?mt=8
@@ -78,6 +83,7 @@
 [WPS Office]:https://itunes.apple.com/cn/app/wps-office-shen-du-jian-rongword/id599852710?mt=8
 [WriteRoom]:	https://itunes.apple.com/cn/app/writeroom/id288751446?mt=8
 [WordEver]:https://itunes.apple.com/cn/app/wordever-text-editor-redesigned/id635247937?mt=8
+[Wordbox]:https://itunes.apple.com/cn/app/wordbox-simple-beautiful-text/id674669080?mt=8
 
 [Evernote]:https://itunes.apple.com/cn/app/yin-xiang-bi-ji/id281796108?mt=8
 [Skitch]:https://itunes.apple.com/cn/app/yin-xiang-bi-ji-quan-dian/id490505997?mt=8
@@ -88,12 +94,16 @@
 [WordPress]:https://itunes.apple.com/cn/app/wordpress/id335703880?mt=8
 [Napcat]:https://itunes.apple.com/cn/app/napcat-github-client-for-open/id606238223?mt=8
 [iOctocat]:https://itunes.apple.com/cn/app/ioctocat-github-for-iphone/id669642611?mt=8
-[Codehub]:https://itunes.apple.com/cn/app/codehub-github-for-ios/id707173885?mt=8
 [RepoStumble]:https://itunes.apple.com/cn/app/repository-stumble-discover/id761416981?mt=8
 
 [Blur +]:https://itunes.apple.com/cn/app/blur+-create-stunningly-blur/id715464054?mt=8
 [Aviary]:https://itunes.apple.com/cn/app/aviary-zhao-pian-bian-ji-qi/id527445936?mt=8
 [Perfectly Clear]:https://itunes.apple.com/cn/app/perfectly-clear-photo-correction/id324321778?mt=8
+[Phoenix Photo Editor]:https://itunes.apple.com/cn/app/phoenix-photo-editor/id734696710?mt=8
+[Font List]:https://itunes.apple.com/cn/app/font-list-ui-she-ji-bi-bei/id594736842?mt=8
+[Color Codes]:https://itunes.apple.com/cn/app/color-codes/id455003501?mt=8
+
+[Jing]:https://itunes.apple.com/cn/app/jing/id581886398?mt=8
 
 
 
